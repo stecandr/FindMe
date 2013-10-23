@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/stella/Descargas/ESPOL/Lenguajes/FindMe (3)/.metadata/.plugins/org.eclipse.jdt.core
+93465877.index
+2843673033.index
+2001008519.index
